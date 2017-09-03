@@ -1,0 +1,8 @@
+c:\users\ivann\documents\visual studio 2017\Projects\3D-KitKat-Touch-Press\3D-KitKat-Touch-Press\obj\Debug\_3D_KitKat_Touch_Press.Properties.Resources.resources
+c:\users\ivann\documents\visual studio 2017\Projects\3D-KitKat-Touch-Press\3D-KitKat-Touch-Press\obj\Debug\3D-KitKat-Touch-Press.csproj.GenerateResource.Cache
+c:\users\ivann\documents\visual studio 2017\Projects\3D-KitKat-Touch-Press\3D-KitKat-Touch-Press\bin\Debug\3D-KitKat-Touch-Press.exe
+c:\users\ivann\documents\visual studio 2017\Projects\3D-KitKat-Touch-Press\3D-KitKat-Touch-Press\bin\Debug\3D-KitKat-Touch-Press.pdb
+c:\users\ivann\documents\visual studio 2017\Projects\3D-KitKat-Touch-Press\3D-KitKat-Touch-Press\obj\Debug\3D-KitKat-Touch-Press.exe
+c:\users\ivann\documents\visual studio 2017\Projects\3D-KitKat-Touch-Press\3D-KitKat-Touch-Press\obj\Debug\3D-KitKat-Touch-Press.pdb
+c:\users\ivann\documents\visual studio 2017\Projects\3D-KitKat-Touch-Press\3D-KitKat-Touch-Press\obj\Debug\_3D_KitKat_Touch_Press.Form1.resources
+c:\users\ivann\documents\visual studio 2017\Projects\3D-KitKat-Touch-Press\3D-KitKat-Touch-Press\obj\Debug\3D-KitKat-Touch-Press.csprojResolveAssemblyReference.cache
